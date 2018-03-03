@@ -1,6 +1,5 @@
 ***Modified files:***
-/app/Http/routes.php
-/resources/views/cats/index.blade.php
+/app/Http/routes.php     /resources/views/cats/index.blade.php
 
 
 
